@@ -2,19 +2,19 @@
     "cards" : [
         {
             "id" : 1,
-            "color" : "red"
+            "color" : "bg-danger"
         },
         {
             "id" : 2,
-            "color" : "red"
+            "color" : "bg-danger"
         },
         {
             "id" : 3,
-            "color" : "green"
+            "color" : "bg-success"
         },
         {
             "id" : 4,
-            "color" : "blue"
+            "color" : "bg-primary"
         }
     ]
 }
