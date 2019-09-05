@@ -1,0 +1,20 @@
+{
+    cards : {
+        {
+            id : 1,
+            color : "red"
+        },
+        {
+            id : 2,
+            color : "red"
+        },
+        {
+            id : 3,
+            color : "green"
+        },
+        {
+            id : 4,
+            color : "blue"
+        }
+    }
+}
