@@ -1,5 +1,5 @@
 {
-    cards : {
+    cards = {
         {
             id : 1,
             color : "red"
